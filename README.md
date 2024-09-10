@@ -1,6 +1,6 @@
 # Python灰帽子书籍实践项目
 
-虽然书比较老已经20多年了..., 但是里面的技术没有过时, 可以学习逆向技巧,
+虽然书比较老已经20多年了..., 但是还是有可以参考学习的地方
 需要注意一些Api已经变更,比如Python2是默认ASCII码, Python3变成Unicode了
 
 [OpenRCE](https://github.com/OpenRCE)
